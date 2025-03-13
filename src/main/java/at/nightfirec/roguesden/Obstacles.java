@@ -79,11 +79,11 @@ class Obstacles
 			new Obstacle(2982, 5090, "Climb"),
 			new Obstacle(2983, 5090, LEDGE_7240),
 
-			new Obstacle(2993, 5088, "Search"),
+			new Obstacle(2992, 5088, "Search"),
 			new Obstacle(2993, 5087, WALL_7249),
 			new Obstacle(2997, 5088, "Run"),
 
-			new Obstacle(2993, 5089, "Search"),
+			new Obstacle(2992, 5089, "Search"),
 			new Obstacle(2993, 5089, WALL_7249),
 			new Obstacle(2997, 5089, "Run"),
 
@@ -119,7 +119,7 @@ class Obstacles
 			new Obstacle(2992, 5075, "Run"),
 			new Obstacle(3009, 5063, "Take"),
 			new Obstacle(3028, 5056, "Run"),
-			new Obstacle(3028, 5047, "Walk"),
+			new Obstacle(3028, 5047, "Run"),
 
 			new Obstacle(3018, 5047, "Crack", WALL_SAFE_7237),
 
